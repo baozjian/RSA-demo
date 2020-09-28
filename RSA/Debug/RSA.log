@@ -1,10 +1,1 @@
-﻿  multiple.c
-C:\Users\bao_z\Desktop\RSA-master\multiple.c(364,28): warning C4244: “=”: 从“unsigned __int64”转换到“word”，可能丢失数据
-C:\Users\bao_z\Desktop\RSA-master\multiple.c(444,29): warning C4244: “=”: 从“unsigned __int64”转换到“word”，可能丢失数据
-C:\Users\bao_z\Desktop\RSA-master\multiple.c(468,31): warning C4244: “函数”: 从“unsigned __int64”转换到“unsigned int”，可能丢失数据
-C:\Users\bao_z\Desktop\RSA-master\multiple.c(493,39): warning C4244: “=”: 从“unsigned __int64”转换到“word”，可能丢失数据
-C:\Users\bao_z\Desktop\RSA-master\multiple.c(513,29): warning C4244: “=”: 从“unsigned __int64”转换到“word”，可能丢失数据
-C:\Users\bao_z\Desktop\RSA-master\multiple.c(524,34): warning C4244: “=”: 从“unsigned __int64”转换到“word”，可能丢失数据
-C:\Users\bao_z\Desktop\RSA-master\multiple.c(526,26): warning C4244: “=”: 从“unsigned __int64”转换到“word”，可能丢失数据
-C:\Users\bao_z\Desktop\RSA-master\multiple.c(888,18): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
-  RSA.vcxproj -> C:\Users\bao_z\source\repos\RSA\Debug\RSA.exe
+﻿  RSA.vcxproj -> E:\github\RSA-demo\Debug\RSA.exe

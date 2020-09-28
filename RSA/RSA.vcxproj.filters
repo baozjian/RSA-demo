@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Desktop\RSA-master\multiple.c">
+    <ClCompile Include="..\multiple.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
